@@ -2,7 +2,9 @@
 
 You can use the [editor on GitHub](https://github.com/ruqayyahkhan/ruqayyahkhan.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Hi there! I'm putting in some new content 
+Hi there! My name is Ruqayyah Khan. This is my last semester at GW, and I am majoring in Pyschology and minoring in Journalism and Business.
+
+I have my own photography business in which I photograph events. I work for Jumpstart currently which is a program dedicated to provide Preschool children of DC's poverty neighborhoods with the resources they need to grow. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
